@@ -1,0 +1,5 @@
+vscripts @ git+https://github.com/iagocanalejas/vscripts.git@master
+numpy==2.0.0
+matplotlib==3.9.0
+pydub==0.25.1
+scypy==1.14.0
